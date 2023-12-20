@@ -11,13 +11,10 @@ export const RATE_LIMIT = 50; // 50 requests per 15 seconds
 
 // Whitelisted IPs
 export const WHITELISTED_IPS = [
-    // "127.0.0.1"
+    "161.129.129.171"
 ];
 
 // OpenAI API Keys
 export let OPENAI_KEYS = [
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "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",
 ];
